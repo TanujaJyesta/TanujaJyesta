@@ -157,9 +157,7 @@ I enjoy building practical software using Artificial Intelligence and Machine Le
 - Integrated PyCaret to compare multiple machine learning models and recommend the best-performing model.
 - Built an interactive Streamlit dashboard for dataset upload, visualization, and prediction.
 
-🔗 **Repository:** *(Add GitHub Link)*
 
----
 
 ### 🎓 Student Placement Prediction System
 **Python • Scikit-learn • Pandas • Streamlit**
@@ -168,7 +166,6 @@ I enjoy building practical software using Artificial Intelligence and Machine Le
 - Performed data preprocessing, feature engineering, and model evaluation.
 - Deployed the application using Streamlit for an interactive user experience.
 
-🔗 **Repository:** *(Add GitHub Link)*
 
 ---
 
@@ -179,7 +176,6 @@ I enjoy building practical software using Artificial Intelligence and Machine Le
 - Implemented voice commands for opening applications, searching the web, and performing basic automation tasks.
 - Utilized SpeechRecognition and pyttsx3 for speech input and text-to-speech output.
 
-🔗 **Repository:** *(Add GitHub Link)*
 
 ---
 
