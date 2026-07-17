@@ -58,36 +58,49 @@ I enjoy building practical software using Artificial Intelligence and Machine Le
 
 ## 🛠️ Technical Skills
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,mysql" />
-</p>
+- Python
+- Java
+- SQL
 
-### 🤖 AI & Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
-
-`Machine Learning` • `Deep Learning` • `CNN` • `NLP` • `Scikit-learn` • `PyCaret`
-
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-`Streamlit`
+### 🧠 AI & Machine Learning
+- Machine Learning
+- Deep Learning
+- CNN
+- NLP
+- Scikit-learn
+- PyCaret
 
 ### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+- MySQL
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🌐 Web Development
+- HTML
+- CSS
+- JavaScript
+- Streamlit
 
 ### 🛠️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+- Git
+- GitHub
+- VS Code
 
----
+### 📚 Core CS
+- Data Structures & Algorithms
+- DBMS
+- Computer Networks
+
+</td>
+</tr>
+</table>
 
 ## 💼 Internship Experience
 
@@ -195,35 +208,6 @@ I enjoy building practical software using Artificial Intelligence and Machine Le
 - 🍽️ CodeChef
 - 🧩 Smart Interviews
 - 💼 LinkedIn
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6C63FF&style=flat" />
-</p>
-
 ---
 
 ## 🤝 Let's Connect
