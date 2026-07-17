@@ -102,13 +102,6 @@ A desktop voice assistant developed using Python for voice-based interaction and
 - Web search
 - Application automation
 
----
-
-### 📰 Fake News Detection
-
-Machine Learning application for classifying news articles as genuine or fake using NLP techniques.
-
----
 
 ### 📚 StudySync AI *(Currently Building)*
 
@@ -144,35 +137,27 @@ AI-powered platform designed to help students organize learning through intellig
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📫 Connect With Me
-
-- 📧 thanujajyesta5@gmail.com
-- 💼 LinkedIn
-- 💻 GitHub
-- 🧩 Smart Interviews
-
----
+## 🌐 Connect with Me
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/tanuja-jyesta-18b36532a">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+
+<a href="mailto:thanujajyesta5@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+</a>
+
+<a href="https://www.codechef.com/users/vvit23bq1a4270">
+  <img src="https://cdn.codechef.com/images/cc-logo.svg" height="40" />
+</a>
+
+<a href="https://smartinterviews.in/profile/tanuja_jyesta">
+  <img src="https://img.shields.io/badge/Smart%20Interviews-0078D4?style=for-the-badge" height="28" />
+</a>
+
+</div>
 *"I enjoy building software that combines machine learning with practical problem-solving."*
 
 </div>
