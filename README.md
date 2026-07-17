@@ -2,9 +2,31 @@
 
 # Hi 👋, I'm Jyesta Tanuja
 
-### AI & Machine Learning Engineer | Software Developer
+### B.Tech CSE (Artificial Intelligence & Machine Learning) Student | Aspiring AI & Software Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Building+Practical+AI+Applications;Python+%7C+Machine+Learning+%7C+NLP;Always+Learning+%26+Building"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Building+Practical+AI+Applications;Python+Developer;Always+Learning+Something+New" />
+
+<br>
+
+<a href="https://www.linkedin.com/in/tanuja-jyesta-18b36532a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:thanujajyesta5@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/TanujaJyesta">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/vvit23bq1a4270">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://smartinterviews.in/profile/tanuja_jyesta">
+<img src="https://img.shields.io/badge/Smart%20Interviews-0066CC?style=for-the-badge"/>
+</a>
 
 </div>
 
@@ -12,152 +34,214 @@
 
 ## 👩‍💻 About Me
 
-I'm a final-year B.Tech student in **Computer Science & Engineering (Artificial Intelligence & Machine Learning)** with a strong interest in developing intelligent software and real-world AI applications.
-
-I enjoy combining machine learning with software engineering to build applications that are practical, user-friendly, and impactful. My interests include Machine Learning, Deep Learning, Natural Language Processing, and Full Stack AI Development.
-
-I'm currently strengthening my skills in Data Structures & Algorithms, backend development, and production-ready AI systems while actively building projects.
-
----
-
-## 💻 Technical Skills
-
-**Languages**
-
-- Python
-- Java
-- SQL
-
-**Core Computer Science**
-
-- Data Structures & Algorithms
-- DBMS
-- Computer Networks
-
-**Artificial Intelligence**
-
-- Machine Learning
-- Deep Learning
-- CNN
-- NLP
-- Scikit-learn
-- PyCaret
-
-**Web Development**
-
-- Streamlit
-- HTML
-- CSS
-- JavaScript
-
-**Database**
-
-- MySQL
-
-**Tools**
-
-- Git
-- GitHub
-- VS Code
+- 🎓 Final Year B.Tech student specializing in **Artificial Intelligence & Machine Learning**
+- 💡 Passionate about developing AI-powered applications and solving real-world problems
+- 💻 Interested in Machine Learning, Deep Learning, NLP, and Software Development
+- 🌱 Currently strengthening my knowledge in Data Structures & Algorithms and Backend Development
+- 🚀 Actively building projects to improve my software engineering and AI development skills
 
 ---
 
-# 🚀 Featured Projects
+## 📌 Quick Facts
 
-### 🤖 LearnSet – Intelligent AutoML System
-
-An AutoML platform that simplifies machine learning by automating preprocessing, model training, evaluation, and prediction using PyCaret.
-
-**Highlights**
-
-- Automated ML workflow
-- Multiple model comparison
-- Interactive Streamlit interface
-- Dataset visualization
-- Prediction dashboard
+- 🎓 **College:** Vasireddy Venkatadri Institute of Technology
+- 📍 **Location:** Andhra Pradesh, India
+- 📈 **CGPA:** 9.2 / 10
+- 💬 **Languages:** Python, Java, SQL
+- 📧 **Email:** thanujajyesta5@gmail.com
 
 ---
 
-### 🎓 Student Placement Prediction System
+## 🎯 Career Objective
 
-Machine Learning application that predicts student placement outcomes using academic and personal attributes.
+I enjoy building practical software using Artificial Intelligence and Machine Learning. My goal is to contribute to products that create meaningful impact while continuously improving my technical and problem-solving skills.
 
-**Highlights**
+## 🛠️ Technical Skills
 
-- Data preprocessing
-- Feature engineering
-- Model evaluation
-- Streamlit deployment
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,mysql" />
+</p>
+
+### 🤖 AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+`Machine Learning` • `Deep Learning` • `CNN` • `NLP` • `Scikit-learn` • `PyCaret`
+
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+`Streamlit`
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-### 🎙️ Voice Assistant
+## 💼 Internship Experience
 
-A desktop voice assistant developed using Python for voice-based interaction and task automation.
+### AI/ML Virtual Intern
+**EduSkills – Google for Developers**  
+📅 Apr 2026 – Jun 2026
 
-**Highlights**
+- Completed an 8-week AI/ML virtual internship.
+- Worked on data preprocessing, feature engineering, and predictive modeling.
+- Developed and evaluated machine learning models using Python, Pandas, NumPy, and Scikit-learn.
 
-- Voice commands
-- Speech recognition
-- Web search
-- Application automation
+---
 
+### AI & Machine Learning Virtual Intern
+**Edunet Foundation – AICTE**
 
-### 📚 StudySync AI *(Currently Building)*
+- Developed AI applications including a Student Placement Prediction model.
+- Applied NLP techniques using BERT.
+- Worked with Python, Scikit-learn, Hugging Face, and Streamlit.
 
-AI-powered platform designed to help students organize learning through intelligent planning, quizzes, notes, and progress tracking.
+---
+
+### Prompt Engineering Intern
+**Vault of Codes**
+
+- Designed and optimized prompts for Large Language Models (LLMs).
+- Improved response quality through testing and prompt refinement.
 
 ---
 
 ## 📜 Certifications
 
-- Google Cloud Skills Boost – Generative AI Specialization
-- IBM SkillsBuild – Machine Learning with Python
-- NPTEL – Machine Learning Using Python
-- NPTEL – Human Computer Interaction
+- 🏅 NPTEL – Machine Learning Using Python
+- 🏅 NPTEL – Human Computer Interaction
+- 🏅 Google Cloud Skills Boost – Generative AI Specialization
+- 🏅 IBM SkillsBuild – Machine Learning with Python
+
+---
+
+## 📚 Core Subjects
+
+- Data Structures & Algorithms
+- Database Management Systems
+- Computer Networks
+- Object-Oriented Programming
+- Machine Learning
+- Deep Learning
+## 🚀 Projects
+
+### 🤖 LearnSet – Intelligent AutoML System
+**Python • PyCaret • Streamlit**
+
+- Developed an AutoML platform to automate data preprocessing, model training, evaluation, and prediction.
+- Integrated PyCaret to compare multiple machine learning models and recommend the best-performing model.
+- Built an interactive Streamlit dashboard for dataset upload, visualization, and prediction.
+
+🔗 **Repository:** *(Add GitHub Link)*
+
+---
+
+### 🎓 Student Placement Prediction System
+**Python • Scikit-learn • Pandas • Streamlit**
+
+- Built a machine learning model to predict student placement outcomes using academic and personal attributes.
+- Performed data preprocessing, feature engineering, and model evaluation.
+- Deployed the application using Streamlit for an interactive user experience.
+
+🔗 **Repository:** *(Add GitHub Link)*
+
+---
+
+### 🎙️ Voice Assistant
+**Python • SpeechRecognition • pyttsx3**
+
+- Developed a voice-controlled desktop assistant using Python.
+- Implemented voice commands for opening applications, searching the web, and performing basic automation tasks.
+- Utilized SpeechRecognition and pyttsx3 for speech input and text-to-speech output.
+
+🔗 **Repository:** *(Add GitHub Link)*
 
 ---
 
 ## 🏆 Achievements
 
-- CGPA: **9.2/10**
-- Best UI/UX Designer – ACM Udgama Hackathon
-- Solved **150+** coding problems
-- Town Topper – Intermediate Examination
+- 🥇 Best UI/UX Designer Award – ACM Udgama Hackathon
+- 💻 Solved **150+ coding problems** across competitive programming platforms.
+- 🎖️ Town Topper in Intermediate Examination.
+- 🎓 Maintaining a **9.2 CGPA** in B.Tech CSE (AI & ML).
 
 ---
 
-## 🌱 Currently Learning
+## 🎯 Current Focus
 
-- Large Language Models (LLMs)
-- Generative AI
-- Backend Development
-- Software Engineering Best Practices
-- Data Structures & Algorithms
+- 📚 Strengthening Data Structures & Algorithms
+- 🤖 Building practical Machine Learning applications
+- 🧠 Exploring Natural Language Processing
+- ⚙️ Improving software development skills
+- 🌱 Learning through hands-on projects
 
 ---
 
-## 🌐 Connect with Me
+## 📈 Coding Profiles
+
+- 💻 GitHub
+- 🍽️ CodeChef
+- 🧩 Smart Interviews
+- 💼 LinkedIn
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6C63FF&style=flat" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+If you're interested in collaborating on AI, Machine Learning, or Software Development projects, feel free to connect with me.
+
+📧 **Email:** thanujajyesta5@gmail.com
+
+💼 **LinkedIn:** www.linkedin.com/in/tanuja-jyesta-18b36532a
+
+---
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/tanuja-jyesta-18b36532a">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>
+### Thank you for visiting my profile!
 
-<a href="mailto:thanujajyesta5@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
-</a>
+*"Learning continuously, building consistently, and growing one project at a time."*
 
-<a href="https://www.codechef.com/users/vvit23bq1a4270">
-  <img src="https://cdn.codechef.com/images/cc-logo.svg" height="40" />
-</a>
-
-<a href="https://smartinterviews.in/profile/tanuja_jyesta">
-  <img src="https://img.shields.io/badge/Smart%20Interviews-0078D4?style=for-the-badge" height="28" />
-</a>
-
-</div>
-*"I enjoy building software that combines machine learning with practical problem-solving."*
+⭐ If you find my projects interesting, feel free to explore my repositories.
 
 </div>
