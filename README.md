@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi 👋 I'm Jyesta Tanuja
+# Hi 👋, I'm Jyesta Tanuja
 
-### AI & Machine Learning Engineer | Full Stack AI Developer
+### AI & Machine Learning Engineer | Software Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Building+Intelligent+Applications;Python+%7C+Deep+Learning+%7C+NLP;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Building+Practical+AI+Applications;Python+%7C+Machine+Learning+%7C+NLP;Always+Learning+%26+Building"/>
 
 </div>
 
@@ -12,182 +12,167 @@
 
 ## 👩‍💻 About Me
 
-🎓 B.Tech in Computer Science & Engineering (AI & ML)
+I'm a final-year B.Tech student in **Computer Science & Engineering (Artificial Intelligence & Machine Learning)** with a strong interest in developing intelligent software and real-world AI applications.
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning and NLP
+I enjoy combining machine learning with software engineering to build applications that are practical, user-friendly, and impactful. My interests include Machine Learning, Deep Learning, Natural Language Processing, and Full Stack AI Development.
 
-💻 Building real-world AI-powered applications
-
-🌱 Currently exploring LLMs, Generative AI and Full Stack AI Development
-
-🚀 Looking for Software Engineering and AI/ML opportunities
+I'm currently strengthening my skills in Data Structures & Algorithms, backend development, and production-ready AI systems while actively building projects.
 
 ---
 
-## 🌐 Connect With Me
+## 💻 Technical Skills
 
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:thanujajyesta5@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
+**Languages**
+
+- Python
+- Java
+- SQL
+
+**Core Computer Science**
+
+- Data Structures & Algorithms
+- DBMS
+- Computer Networks
+
+**Artificial Intelligence**
+
+- Machine Learning
+- Deep Learning
+- CNN
+- NLP
+- Scikit-learn
+- PyCaret
+
+**Web Development**
+
+- Streamlit
+- HTML
+- CSS
+- JavaScript
+
+**Database**
+
+- MySQL
+
+**Tools**
+
+- Git
+- GitHub
+- VS Code
 
 ---
 
 # 🚀 Featured Projects
 
-## 📚 StudySync AI
+### 🤖 LearnSet – Intelligent AutoML System
 
-AI-powered student productivity platform.
+An AutoML platform that simplifies machine learning by automating preprocessing, model training, evaluation, and prediction using PyCaret.
 
-### Features
+**Highlights**
 
-- AI Study Planner
-- Quiz Generator
-- Flashcards
-- Notes Generator
-- Progress Dashboard
-- Gemini AI Integration
-
-**Tech Stack**
-
-Python • Streamlit • Gemini API • SQLite
+- Automated ML workflow
+- Multiple model comparison
+- Interactive Streamlit interface
+- Dataset visualization
+- Prediction dashboard
 
 ---
 
-## 🤖 AI Code Reviewer & Optimizer
+### 🎓 Student Placement Prediction System
 
-AI assistant that reviews code and suggests improvements.
+Machine Learning application that predicts student placement outcomes using academic and personal attributes.
 
-### Features
+**Highlights**
 
-- Bug Detection
-- Code Optimization
-- Documentation Generator
-- Complexity Analysis
-- Multi-language Support
-
-**Tech Stack**
-
-Python • FastAPI • LLMs
+- Data preprocessing
+- Feature engineering
+- Model evaluation
+- Streamlit deployment
 
 ---
 
-## 📰 Fake News Detection
+### 🎙️ Voice Assistant
 
-Machine Learning model to classify fake and real news.
+A desktop voice assistant developed using Python for voice-based interaction and task automation.
 
-### Features
+**Highlights**
 
-- 97% Accuracy
-- TF-IDF Vectorization
-- SVM
-- Logistic Regression
-- XGBoost
-
----
-
-## 🤖 Intelligent AutoML Platform
-
-Automates machine learning workflows.
-
-### Features
-
-- Dataset Upload
-- Automatic Task Detection
-- Multiple Model Training
-- Explainable AI
-- Model Comparison
-- Report Generation
+- Voice commands
+- Speech recognition
+- Web search
+- Application automation
 
 ---
 
-# 💻 Tech Stack
+### 📰 Fake News Detection
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql"/>
-</p>
-
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-</p>
-
-Machine Learning • Deep Learning • OpenCV • Scikit-Learn • PyCaret • LangChain
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
-</p>
+Machine Learning application for classifying news articles as genuine or fake using NLP techniques.
 
 ---
 
-# 📊 GitHub Statistics
+### 📚 StudySync AI *(Currently Building)*
+
+AI-powered platform designed to help students organize learning through intelligent planning, quizzes, notes, and progress tracking.
+
+---
+
+## 📜 Certifications
+
+- Google Cloud Skills Boost – Generative AI Specialization
+- IBM SkillsBuild – Machine Learning with Python
+- NPTEL – Machine Learning Using Python
+- NPTEL – Human Computer Interaction
+
+---
+
+## 🏆 Achievements
+
+- CGPA: **9.2/10**
+- Best UI/UX Designer – ACM Udgama Hackathon
+- Solved **150+** coding problems
+- Town Topper – Intermediate Examination
+
+---
+
+## 🌱 Currently Learning
+
+- Large Language Models (LLMs)
+- Generative AI
+- Backend Development
+- Software Engineering Best Practices
+- Data Structures & Algorithms
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 Certifications
+## 📫 Connect With Me
 
-- Machine Learning Using Python – NPTEL
-- Introduction to Large Language Models – NPTEL
-- Google Cloud Generative AI
-- IBM Machine Learning with Python
-- AICTE Edunet Foundation AIML Internship
+- 📧 thanujajyesta5@gmail.com
+- 💼 LinkedIn
+- 💻 GitHub
+- 🧩 Smart Interviews
 
 ---
 
-# 🎯 Current Focus
-
-- 🧠 Machine Learning
-- 🤖 Deep Learning
-- 💬 Large Language Models
-- 🌐 Full Stack AI Development
-- 💻 Data Structures & Algorithms
-
--
 <div align="center">
 
-### 💡 "Building AI solutions that solve real-world problems."
-
-⭐ Thanks for visiting my GitHub profile!
+*"I enjoy building software that combines machine learning with practical problem-solving."*
 
 </div>
